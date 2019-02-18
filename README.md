@@ -1,6 +1,11 @@
 DVC Container
 ======
 
+How to bootstrap
+---
+To initialize your dvc repo from zero please read [https://dvc.org/doc/get-started/initialize]. If someone has already bootstrapped the repo, skip this step and just use DVC with the alias after cloning the underlying git repository.
+
+
 Useful commands
 ----
 This will create an alias for 'dvc'
